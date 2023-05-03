@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/new.figma/static/css/main.18695350.css",
+    "main.js": "/new.figma/static/js/main.9435dce5.js",
+    "static/media/IMAGE (4).png": "/new.figma/static/media/IMAGE (4).b525d2d28a9fcae8f9ed.png",
+    "static/media/IMAGE (3).png": "/new.figma/static/media/IMAGE (3).01362c10e69c76528c33.png",
+    "static/media/IMAGE (5).png": "/new.figma/static/media/IMAGE (5).8922da5641c7b5856fba.png",
+    "index.html": "/new.figma/index.html",
+    "main.18695350.css.map": "/new.figma/static/css/main.18695350.css.map",
+    "main.9435dce5.js.map": "/new.figma/static/js/main.9435dce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18695350.css",
+    "static/js/main.9435dce5.js"
+  ]
+}
