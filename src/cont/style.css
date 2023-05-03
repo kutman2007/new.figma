@@ -1,0 +1,76 @@
+.one{
+    width: 357pc;
+    height: 268px;
+    background-image: url(./IMAGE\ \(3\).png);
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.two{
+    width: 357pc;
+    height: 268px;
+    background-image: url(./IMAGE\ \(4\).png);
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.three{
+    width: 357pc;
+    height: 268px;
+    background-image: url(./IMAGE\ \(5\).png);
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Count{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+
+}
+.cub1{
+    width: 160px;
+    height: 80px;
+    background-color: #D2B178;
+  
+}
+.cub2{
+    width: 160px;
+    height: 80px;
+    background-color: #968676;
+  
+}
+.cub3{
+    width: 160px;
+    height: 80px;
+    background-color: #968676;
+  
+}
+.cub{
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+}
+span{
+    margin-left: 100px;
+    font-size: 20px;
+}
+.a{
+    margin-left:50px;
+    font-size: 17px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+ font-size: 30px;
+}
+.qwer{
+    display: flex;
+    justify-content: space-between;
+    width: 1350px;
+}
+.d{
+    font-size: 20px;
+}
+.w{
+    font-size: 20px;
+}
